@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0001-two-sum) |
 | [1635-number-of-good-pairs](https://github.com/raghav-0650/DSA-Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/raghav-0650/DSA-Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/raghav-0650/DSA-Leetcode/tree/master/1635-number-of-good-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/raghav-0650/DSA-Leetcode/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
