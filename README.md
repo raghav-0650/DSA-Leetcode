@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0143-reorder-list) |
+| [0908-middle-of-the-linked-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0143-reorder-list) |
+| [0908-middle-of-the-linked-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
