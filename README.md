@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0143-reorder-list) |
 ## Counting
 |  |
 | ------- |
@@ -33,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/raghav-0650/DSA-Leetcode/tree/master/1833-find-the-highest-altitude) |
+## Two Pointers
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0143-reorder-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
