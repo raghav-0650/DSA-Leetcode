@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raghav-0650/DSA-Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Math
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -47,9 +49,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
