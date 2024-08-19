@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0001-two-sum) |
+| [0739-daily-temperatures](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [1635-number-of-good-pairs](https://github.com/raghav-0650/DSA-Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/raghav-0650/DSA-Leetcode/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0874-backspace-string-compare) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/raghav-0650/DSA-Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
