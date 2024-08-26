@@ -3,6 +3,7 @@ int* twoSum(int *nums, int numsSize, int target, int *returnSize)
 {
     int *temp = malloc(2 *sizeof(int));
     temp[0] = 0;
+    //brrr
     temp[1] = 1;
     for(int i = 0;i < numsSize ;i++)
     {
